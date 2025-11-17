@@ -63,9 +63,9 @@ MidsileImg_rect.centerx = 516
 MidsileImg_rect.centery = 68
 
 # font
-font_1 = pygame.font.SysFont("pslxpassanun", 36)
-font_2 = pygame.font.SysFont("pslxpassanun", 44)
-font_3 = pygame.font.SysFont("pslxpassanun", 52)
+font_1 = pygame.font.SysFont("Angsana New", 36)
+font_2 = pygame.font.SysFont("Angsana New", 44)
+font_3 = pygame.font.SysFont("Angsana New", 52)
 
 # score and hp system
 score_text = font_2.render("Score : " + str(score), True, (201, 113, 4))
